@@ -1,0 +1,19 @@
+curl 'https://help-qa.pge.com/s/sfsites/aura?r=11&ui-self-service-components-controller.TopicArticleListDataProvider.loadMoreArticles=1' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H $'cookie: renderCtx=%7B%22pageId%22%3A%22d5c2b4c8-ac10-4527-904e-b503e4ef6bfb%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%2207750b95-833e-475d-92d3-7294cc1bf2b1%22%2C%22audienceIds%22%3A%22%22%7D; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sfdc-stream=\u0021x3A1jTP9qhipXzdp9yx50K/HuVfOXqZnZmnwhueL/9C5+fXMO8jbJIBEWmO4slmqzoAXfHv1uwWV6cw=; mdLogger=false; kampyle_userid=3bd8-fcdf-1b19-fc8d-557e-9a7b-e8bd-9557; pctrk=8af666af-82d5-420b-a25e-bb2d111a418d; Tld-kampyleUserSession=1723872233888; Tld-kampyleUserSessionsCount=2; Tld-kampyleSessionPageCounter=1' \
+  -H 'dnt: 1' \
+  -H 'origin: https://help-qa.pge.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://help-qa.pge.com/s/topic/0TO8M000000GxHCWA0/bill-faqs?language=en_US' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36' \
+  -H 'x-sfdc-page-scope-id: a7e21904-fcc9-4464-b524-b380f90e8933' \
+  -H 'x-sfdc-request-id: 7142072900002ac5aa' \
+  --data-raw 'message=%7B%22actions%22%3A%5B%7B%22id%22%3A%22533%3Ba%22%2C%22descriptor%22%3A%22serviceComponent%3A%2F%2Fui.self.service.components.controller.TopicArticleListDataProviderController%2FACTION%24loadMoreArticles%22%2C%22callingDescriptor%22%3A%22markup%3A%2F%2FselfService%3AtopicArticleListDataProvider%22%2C%22params%22%3A%7B%22limit%22%3A11%2C%22offset%22%3A30%2C%22topicIds%22%3A%220TO8M000000GxHCWA0%22%7D%2C%22version%22%3A%2261.0%22%2C%22storable%22%3Atrue%7D%5D%7D&aura.context=%7B%22mode%22%3A%22PROD%22%2C%22fwuid%22%3A%22eGx3MHlRT1lEMUpQaWVxbGRUM1h0Z2hZX25NdHFVdGpDN3BnWlROY1ZGT3cyNTAuOC4zLTYuNC41%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22vgD8vvaBHzgKYqb_JQjQdw%22%2C%22MODULE%40markup%3A%2F%2Flightning%3Af6Controller%22%3A%225PtsAUCMnPdpZDcNTHXtbg%22%2C%22COMPONENT%40markup%3A%2F%2Finstrumentation%3Ao11ySecondaryLoader%22%3A%221JitVv-ZC5qlK6HkuofJqQ%22%7D%2C%22dn%22%3A%5B%5D%2C%22globals%22%3A%7B%7D%2C%22uad%22%3Afalse%7D&aura.pageURI=%2Fs%2Ftopic%2F0TO8M000000GxHCWA0%2Fbill-faqs%3Flanguage%3Den_US&aura.token=null'
