@@ -1,10 +1,14 @@
 import logging
 from generative_ai_utils import load_vector_store, create_query_engine
 import argparse
+from utils import setup_logging
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+LOG_PATH = '../logs/help_center_chatbot_log.txt'
+setup_logging(LOG_PATH)
 
 
 def parse_arguments() -> argparse.Namespace:

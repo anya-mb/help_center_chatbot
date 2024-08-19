@@ -2,8 +2,10 @@ import streamlit as st
 from streamlit_chat import message
 
 from help_center_chatbot import generate_response
-from utils import set_titles_and_headers
+from utils import set_titles_and_headers, setup_logging
 
+LOG_PATH = '../logs/streamlit_app_log.txt'
+setup_logging(LOG_PATH)
 
 set_titles_and_headers()
 

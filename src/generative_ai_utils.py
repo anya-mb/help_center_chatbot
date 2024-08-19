@@ -5,8 +5,10 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import StorageContext
 from llama_index.llms.openai import OpenAI
+from llama_index.core import Settings
 import openai
 import logging
+from utils import setup_logging
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -21,6 +23,12 @@ CHROMA_DB_PERSISTENT_PATH = '../data/chroma_db'
 CHROMA_DB_COLLECTION_NAME = "bills_faqs"
 
 PARSED_PATH = '../data/Bill_FAQs/parsed'
+
+# define global LLM
+Settings.llm = OpenAI(temperature=0.3, model="gpt-4o-mini")
+
+LOG_PATH = '../logs/generative_ai_utils_log.txt'
+setup_logging(LOG_PATH)
 
 
 def create_vector_store(
@@ -82,3 +90,8 @@ def create_query_engine(index: object) -> object:
     logging.info("Query engine created")
 
     return query_engine
+
+
+if __name__ == "__main__":
+    logging.info("Run create_vector_store")
+    create_vector_store()
