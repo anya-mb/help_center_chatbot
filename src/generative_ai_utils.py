@@ -4,7 +4,9 @@ import chromadb
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import StorageContext
+from llama_index.llms.openai import OpenAI
 import openai
+import logging
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -39,10 +41,14 @@ def create_vector_store(
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
+    # define LLM
+    llm = OpenAI(temperature=0.1, model="gpt-4o-mini")
+
     # create your index
     index = VectorStoreIndex.from_documents(
-        documents, storage_context=storage_context
+        documents, storage_context=storage_context, llm=llm
     )
+    logging.info("Vector store is created")
 
 
 def load_vector_store(
@@ -59,18 +65,20 @@ def load_vector_store(
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
+    # define LLM
+    llm = OpenAI(temperature=0.1, model="gpt-4o-mini")
+
     # load your index from stored vectors
     index = VectorStoreIndex.from_vector_store(
-        vector_store, storage_context=storage_context
+        vector_store, storage_context=storage_context, llm=llm
     )
+    logging.info("Vector store is loaded")
     return index
 
 
 def create_query_engine(index: object) -> object:
     # create a query engine
     query_engine = index.as_query_engine()
+    logging.info("Query engine created")
 
     return query_engine
-
-
-

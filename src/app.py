@@ -1,8 +1,8 @@
 import streamlit as st
 from streamlit_chat import message
 
-from src.help_center_chatbot import generate_response
-from src.utils import set_titles_and_headers
+from help_center_chatbot import generate_response
+from utils import set_titles_and_headers
 
 
 set_titles_and_headers()
@@ -32,7 +32,7 @@ with container:
 
     if submit_button and user_input:
         output = generate_response(
-            user_input#, st.session_state["messages"]
+            user_input #, st.session_state["messages"]
         )
         st.session_state["past"].append(user_input)
         st.session_state["generated"].append(output)
