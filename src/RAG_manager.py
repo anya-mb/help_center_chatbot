@@ -21,9 +21,10 @@ _ = load_dotenv(find_dotenv())
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # Define file paths and collection name for ChromaDB
+# CHROMA_DB_PERSISTENT_PATH = '../data/chroma_db_1_source'
 CHROMA_DB_PERSISTENT_PATH = '../data/chroma_db'
 CHROMA_DB_COLLECTION_NAME = "bills_faqs"
-PARSED_PATH = '../data/Bill_FAQs/parsed'
+PARSED_PATH = '../data/Bill_FAQs/all'
 
 # Configure global LLM settings
 Settings.llm = OpenAI(temperature=0.1, model="gpt-4o-mini")
@@ -49,6 +50,11 @@ def create_vector_store(
     Returns:
         None
     """
+    logging.info("Creating the vector store")
+    logging.info(f"Document path: {document_path}")
+    logging.info(f"Chroma path: {chroma_path}")
+    logging.info(f"Collection name: {collection_name}")
+
     # Load documents from the specified directory
     documents = SimpleDirectoryReader(document_path).load_data()
 
@@ -84,6 +90,10 @@ def load_vector_store(
     Returns:
         object: The loaded VectorStoreIndex object.
     """
+    logging.info("Loading the vector store")
+    logging.info(f"Chroma path: {chroma_path}")
+    logging.info(f"Collection name: {collection_name}")
+
     # Initialize ChromaDB client with a persistent path
     db = chromadb.PersistentClient(path=chroma_path)
 
