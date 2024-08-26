@@ -30,7 +30,7 @@ def parse_arguments() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def generate_response(query_engine: object, question: str) -> str:
+def generate_response(question: str) -> str:
     index = load_vector_store()
     query_engine = create_query_engine(index)
 
@@ -48,7 +48,6 @@ def run():
 
     question = args.question
     response = generate_response(question)
-    print(response)
 
 
 if __name__ == "__main__":

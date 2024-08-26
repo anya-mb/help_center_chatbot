@@ -1,0 +1,441 @@
+{
+  "actions": [
+    {
+      "id": "136;a",
+      "state": "SUCCESS",
+      "returnValue": null,
+      "error": []
+    },
+    {
+      "id": "137;a",
+      "state": "SUCCESS",
+      "returnValue": {
+        "RecordData": {
+          "Description": "",
+          "_Title": "Bill FAQs",
+          "_Object": "Topic"
+        },
+        "Translations": {}
+      },
+      "error": []
+    },
+    {
+      "id": "143;a",
+      "state": "SUCCESS",
+      "returnValue": {
+        "topicArticles": "47"
+      },
+      "error": [],
+      "storable": true
+    },
+    {
+      "id": "146;a",
+      "state": "SUCCESS",
+      "returnValue": "<div class=\"footer-copyright\" style=\"text-align: center; margin: 0 auto;line-height: 1.5;\">\n © 2023 Pacific Gas and Electric Company<br> <a href=\"https://www.pge.com/en_US/about-pge/company-information/privacy-policy/privacy.page\" target=\"_blank\">Privacy \u203a<\/a> <a href=\"https://www.pge.com/en_US/about-pge/company-information/disclosure/disclosure.page\" target=\"_blank\">Terms &amp; Conditions \u203a<\/a> <a href=\"https://www.pge.com/en_US/residential/customer-service/help/contact-pge-landing/contact-us.page\" target=\"_blank\">Contact Us \u203a<\/a>\n<\/div>",
+      "error": [],
+      "storable": true
+    },
+    {
+      "id": "154;a",
+      "state": "SUCCESS",
+      "returnValue": [],
+      "error": []
+    },
+    {
+      "id": "167;a",
+      "state": "SUCCESS",
+      "returnValue": {
+        "topicId": "0TO8M000000GxHCWA0",
+        "topicName": "Bill FAQs",
+        "isKnowledgeEnabled": true
+      },
+      "error": [],
+      "storable": true
+    },
+    {
+      "id": "180;a",
+      "state": "SUCCESS",
+      "returnValue": [
+        {
+          "article": {
+            "id": "ka08M000000APlhQAG",
+            "title": "Will I be required to pay my bill all at once when I receive it?",
+            "urlName": "Will-I-be-required-to-pay-my-bill-all-at-once-when-I-receive-it",
+            "lastPublishedDate": "2024-06-17T14:03:59.000Z",
+            "knowledgeArticleId": "kA08M0000009TqpSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Will I be required to pay my bill all at once when I receive it? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Will-I-be-required-to-pay-my-bill-all-at-once-when-I-receive-it?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 9,
+          "articleType": "Knowledge",
+          "rank": 1
+        },
+        {
+          "article": {
+            "id": "ka08M000000APlXQAW",
+            "title": "Will my credit be affected if my PG&E service is shut off?",
+            "urlName": "Will-my-credit-be-affected-if-my-PGE-service-is-shut-off",
+            "lastPublishedDate": "2024-06-17T14:03:59.000Z",
+            "knowledgeArticleId": "kA08M0000009TteSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Will my credit be affected if my PG&E service is shut off? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Will-my-credit-be-affected-if-my-PGE-service-is-shut-off?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 70,
+          "articleType": "Knowledge",
+          "rank": 2
+        },
+        {
+          "article": {
+            "id": "ka08M000000APqbQAG",
+            "title": "Why is my electric bill so high?",
+            "urlName": "Why-is-my-electric-bill-so-high",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TtXSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Why is my electric bill so high? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Why-is-my-electric-bill-so-high?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 14,
+          "articleType": "Knowledge",
+          "rank": 3
+        },
+        {
+          "article": {
+            "id": "ka08M000000APqZQAW",
+            "title": "Why is my gas bill so high?",
+            "urlName": "Why-is-my-gas-bill-so-high",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TtTSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Why is my gas bill so high? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Why-is-my-gas-bill-so-high?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 7,
+          "articleType": "Knowledge",
+          "rank": 4
+        },
+        {
+          "article": {
+            "id": "ka08M000000APq7QAG",
+            "title": "Why is my bill so much higher this month over last month?",
+            "urlName": "Why-is-my-bill-so-much-higher-this-month-over-last-month",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TofSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Why is my bill so much higher this month over last month? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Why-is-my-bill-so-much-higher-this-month-over-last-month?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 5
+        },
+        {
+          "article": {
+            "id": "ka08M000000APq3QAG",
+            "title": "When will I receive my delayed bill?",
+            "urlName": "When-will-I-receive-my-delayed-bill",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TqvSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about When will I receive my delayed bill? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/When-will-I-receive-my-delayed-bill?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 8,
+          "articleType": "Knowledge",
+          "rank": 6
+        },
+        {
+          "article": {
+            "id": "ka08M000000APpoQAG",
+            "title": "Where can I find and download a copy of my current bill?",
+            "urlName": "Where-can-I-find-and-download-a-copy-of-my-current-bill",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TtfSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Where can I find and download a copy of my current bill? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Where-can-I-find-and-download-a-copy-of-my-current-bill?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 3,
+          "articleType": "Knowledge",
+          "rank": 7
+        },
+        {
+          "article": {
+            "id": "ka08M000000APpnQAG",
+            "title": "Where can I find and/or download a copy of my old bills?",
+            "urlName": "Where-can-I-find-andor-download-a-copy-of-my-old-bills",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TtgSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Where can I find and/or download a copy of my old bills? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Where-can-I-find-andor-download-a-copy-of-my-old-bills?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 8
+        },
+        {
+          "article": {
+            "id": "ka08M000000APpjQAG",
+            "title": "Where can I find my Detail of Bill Statements?",
+            "urlName": "Where-can-I-find-my-Detail-of-Bill-Statements",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TsBSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Where can I find my Detail of Bill Statements? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Where-can-I-find-my-Detail-of-Bill-Statements?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 10,
+          "articleType": "Knowledge",
+          "rank": 9
+        },
+        {
+          "article": {
+            "id": "ka08M000000APpRQAW",
+            "title": "Where can I see copies of bill inserts?",
+            "urlName": "Where-can-I-see-copies-of-bill-inserts",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TtcSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Where can I see copies of bill inserts? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Where-can-I-see-copies-of-bill-inserts?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 6,
+          "articleType": "Knowledge",
+          "rank": 10
+        },
+        {
+          "article": {
+            "id": "ka08M000000APozQAG",
+            "title": "Why am I being charged a delivery charge?",
+            "urlName": "Why-am-I-being-charged-a-delivery-charge",
+            "lastPublishedDate": "2024-06-17T14:03:39.000Z",
+            "knowledgeArticleId": "kA08M0000009TobSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Why am I being charged a delivery charge? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Why-am-I-being-charged-a-delivery-charge?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 7,
+          "articleType": "Knowledge",
+          "rank": 11
+        }
+      ],
+      "error": [],
+      "storable": true
+    },
+    {
+      "id": "190;a",
+      "state": "SUCCESS",
+      "returnValue": [],
+      "error": []
+    }
+  ],
+  "context": {
+    "mode": "PROD",
+    "app": "siteforce:communityApp",
+    "contextPath": "/s/sfsites",
+    "pathPrefix": "",
+    "fwuid": "eGx3MHlRT1lEMUpQaWVxbGRUM1h0Z2hZX25NdHFVdGpDN3BnWlROY1ZGT3cyNTAuOC4zLTYuNC41",
+    "mlr": 1,
+    "coos": 1,
+    "loaded": {
+      "APPLICATION@markup://siteforce:communityApp": "vgD8vvaBHzgKYqb_JQjQdw"
+    },
+    "globalValueProviders": [
+      {
+        "type": "$Locale",
+        "values": {}
+      },
+      {
+        "type": "$Browser",
+        "values": {}
+      },
+      {
+        "type": "$Global",
+        "values": {
+          "eswConfigDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "isVoiceOver": {
+            "writable": true,
+            "defaultValue": false
+          },
+          "setupAppContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "density": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "srcdoc": {
+            "writable": false,
+            "defaultValue": false
+          },
+          "appContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "dynamicTypeSize": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "appContextDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          }
+        }
+      },
+      {
+        "type": "$Record",
+        "values": {
+          "objectMetadata": {
+            "Topic": {
+              "_canUseLapi": "true",
+              "_nameField": "Name",
+              "_entityLabel": "Topic",
+              "_keyPrefix": "0TO"
+            }
+          },
+          "quickActionRecordTemplates": {},
+          "recordErrors": {},
+          "records": {
+            "0TO8M000000GxHCWA0": {
+              "Topic": {
+                "isPrimary": true,
+                "record": {
+                  "apiName": "Topic",
+                  "childRelationships": {},
+                  "eTag": "dbe8bf5800f25c5cfd9f0abb03c78988",
+                  "fields": {
+                    "CreatedDate": {
+                      "displayValue": "1/22/2024 11:12 AM",
+                      "value": "2024-01-22T11:12:28.000Z"
+                    },
+                    "Description": {
+                      "displayValue": null,
+                      "value": null
+                    },
+                    "Id": {
+                      "displayValue": null,
+                      "value": "0TO8M000000GxHCWA0"
+                    },
+                    "Name": {
+                      "displayValue": null,
+                      "value": "Bill FAQs"
+                    },
+                    "SystemModstamp": {
+                      "displayValue": "1/22/2024 11:12 AM",
+                      "value": "2024-01-22T11:12:28.000Z"
+                    }
+                  },
+                  "id": "0TO8M000000GxHCWA0",
+                  "lastModifiedById": null,
+                  "lastModifiedDate": null,
+                  "recordTypeId": null,
+                  "recordTypeInfo": null,
+                  "systemModstamp": "2024-01-22T11:12:28.000Z",
+                  "weakEtag": 1705921948000
+                }
+              }
+            }
+          },
+          "recordTemplates": {},
+          "resolvedDraftIds": [],
+          "quickActionMetadata": {},
+          "refreshErrors": [],
+          "requestIds": {
+            "0TO8M000000GxHCWA0": [
+              "0TO8M000000GxHCWA0.FULL.null.null.Description.VIEW",
+              "0TO8M000000GxHCWA0.COMPACT.null.null.Description.VIEW"
+            ]
+          },
+          "purgedRecordIds": [],
+          "layouts": {
+            "Topic.null.FULL.null.VIEW": {
+              "Description": true,
+              "CreatedDate": true,
+              "Id": true,
+              "Name": true,
+              "SystemModstamp": true
+            },
+            "Topic.null.COMPACT.null.VIEW": {
+              "CreatedDate": true,
+              "Id": true,
+              "Name": true,
+              "SystemModstamp": true
+            }
+          }
+        }
+      }
+    ],
+    "enableAccessChecks": true,
+    "apce": 1,
+    "dns": "c",
+    "rns": [
+      "vlocity_cmt"
+    ],
+    "ls": 1,
+    "lairn": [],
+    "laerc": [],
+    "lav": "61",
+    "ln": 1,
+    "lgef": [
+      "com.salesforce.locker.temporaryGate"
+    ],
+    "mna": {
+      "lightning": "interop"
+    },
+    "arse": 1,
+    "acaf": 1,
+    "services": [
+      "markup://lightning:configProvider",
+      "markup://force:salesforceScopedModuleResolver",
+      "markup://force:ldsEngineCreator",
+      "markup://instrumentation:locatorService"
+    ]
+  },
+  "perfSummary": {
+    "version": "core",
+    "request": 633,
+    "actions": {
+      "136;a": {
+        "total": 29,
+        "db": 1
+      },
+      "137;a": {
+        "total": 7,
+        "db": 0
+      },
+      "143;a": {
+        "total": 287,
+        "db": 22
+      },
+      "146;a": {
+        "total": 3,
+        "db": 0
+      },
+      "154;a": {
+        "total": 2,
+        "db": 0
+      },
+      "167;a": {
+        "total": 43,
+        "db": 0
+      },
+      "180;a": {
+        "total": 28,
+        "db": 0
+      },
+      "190;a": {
+        "total": 13,
+        "db": 0
+      }
+    },
+    "actionsTotal": 412,
+    "overhead": 0
+  }
+}

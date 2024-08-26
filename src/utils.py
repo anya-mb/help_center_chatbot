@@ -6,7 +6,7 @@ import logging
 def set_titles_and_headers():
     st.set_page_config(page_title="Pacific Gas and Electric Company bot", page_icon="🌐⚡💬")
     st.markdown(
-        "<h1 style='text-align: center;'>FAQ assistant</h1>",
+        "<h1 style='text-align: center;'>Bills assistant</h1>",
         unsafe_allow_html=True,
     )
     st.markdown(
@@ -16,7 +16,7 @@ def set_titles_and_headers():
     )
 
     st.markdown(
-        "Feel free to ask your questions!",
+        "Feel free to ask your questions regarding bills!",
         unsafe_allow_html=True,
     )
 

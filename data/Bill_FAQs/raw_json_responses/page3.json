@@ -1,0 +1,275 @@
+{
+  "actions": [
+    {
+      "id": "533;a",
+      "state": "SUCCESS",
+      "returnValue": [
+        {
+          "article": {
+            "id": "ka08M000000APyRQAW",
+            "title": "I have not received my bill yet. Where is it?",
+            "urlName": "I-have-not-received-my-bill-yet-Where-is-it",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009TsRSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about I have not received my bill yet. Where is it? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/I-have-not-received-my-bill-yet-Where-is-it?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 7,
+          "articleType": "Knowledge",
+          "rank": 1
+        },
+        {
+          "article": {
+            "id": "ka08M000000APyEQAW",
+            "title": "I just moved into a new home. Can I get an average bill cost?",
+            "urlName": "I-just-moved-into-a-new-home-Can-I-get-an-average-bill-cost",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009Tq4SAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about I just moved into a new home. Can I get an average bill cost? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/I-just-moved-into-a-new-home-Can-I-get-an-average-bill-cost?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 2,
+          "articleType": "Knowledge",
+          "rank": 2
+        },
+        {
+          "article": {
+            "id": "ka08M000000APxLQAW",
+            "title": "I share an apartment, how can I make my roommate pay?",
+            "urlName": "I-share-an-apartment-how-can-I-make-my-roommate-pay",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009TtCSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about I share an apartment, how can I make my roommate pay? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/I-share-an-apartment-how-can-I-make-my-roommate-pay?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 2,
+          "articleType": "Knowledge",
+          "rank": 3
+        },
+        {
+          "article": {
+            "id": "ka08M000000APwhQAG",
+            "title": "How do you estimate my bill?",
+            "urlName": "How-do-you-estimate-my-bill",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009TrZSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How do you estimate my bill? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-do-you-estimate-my-bill?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 3,
+          "articleType": "Knowledge",
+          "rank": 4
+        },
+        {
+          "article": {
+            "id": "ka08M000000APwaQAG",
+            "title": "How does electricity usage translate to bill charges?",
+            "urlName": "How-does-electricity-usage-translate-to-bill-charges",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009TtFSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How does electricity usage translate to bill charges? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-does-electricity-usage-translate-to-bill-charges?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 7,
+          "articleType": "Knowledge",
+          "rank": 5
+        },
+        {
+          "article": {
+            "id": "ka08M000000APw4QAG",
+            "title": "How long is my refund check valid?",
+            "urlName": "How-long-is-my-refund-check-valid",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009TsnSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How long is my refund check valid? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-long-is-my-refund-check-valid?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 6,
+          "articleType": "Knowledge",
+          "rank": 6
+        },
+        {
+          "article": {
+            "id": "ka08M000000APvkQAG",
+            "title": "How much will I be reimbursed for my property damaged by the Dixie Fire?",
+            "urlName": "How-much-will-I-be-reimbursed-for-my-property-damaged-by-the-Dixie-Fire",
+            "lastPublishedDate": "2024-06-17T14:01:54.000Z",
+            "knowledgeArticleId": "kA08M0000009TqOSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How much will I be reimbursed for my property damaged by the Dixie Fire? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-much-will-I-be-reimbursed-for-my-property-damaged-by-the-Dixie-Fire?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 7
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ4KQAW",
+            "title": "How do I dispute my bill?",
+            "urlName": "How-do-I-dispute-my-bill",
+            "lastPublishedDate": "2024-06-17T14:01:01.000Z",
+            "knowledgeArticleId": "kA08M0000009TscSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How do I dispute my bill? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-do-I-dispute-my-bill?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 8
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ4BQAW",
+            "title": "How do I file a claim with PG&E?",
+            "urlName": "How-do-I-file-a-claim-with-PGE",
+            "lastPublishedDate": "2024-06-17T14:01:01.000Z",
+            "knowledgeArticleId": "kA08M0000009TtVSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How do I file a claim with PG&E? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-do-I-file-a-claim-with-PGE?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 7,
+          "articleType": "Knowledge",
+          "rank": 9
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ2DQAW",
+            "title": "How do I set up bill forecast alerts?",
+            "urlName": "How-do-I-set-up-bill-forecast-alerts",
+            "lastPublishedDate": "2024-06-17T14:01:01.000Z",
+            "knowledgeArticleId": "kA08M0000009Ts1SAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How do I set up bill forecast alerts? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-do-I-set-up-bill-forecast-alerts?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 10
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ1TQAW",
+            "title": "How can I monitor my bill during the month?",
+            "urlName": "How-can-I-monitor-my-bill-during-the-month",
+            "lastPublishedDate": "2024-06-17T14:01:01.000Z",
+            "knowledgeArticleId": "kA08M0000009ToOSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How can I monitor my bill during the month? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-can-I-monitor-my-bill-during-the-month?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 11
+        }
+      ],
+      "error": [],
+      "storable": true
+    }
+  ],
+  "context": {
+    "mode": "PROD",
+    "app": "siteforce:communityApp",
+    "contextPath": "/s/sfsites",
+    "pathPrefix": "",
+    "fwuid": "eGx3MHlRT1lEMUpQaWVxbGRUM1h0Z2hZX25NdHFVdGpDN3BnWlROY1ZGT3cyNTAuOC4zLTYuNC41",
+    "mlr": 1,
+    "coos": 1,
+    "loaded": {
+      "APPLICATION@markup://siteforce:communityApp": "vgD8vvaBHzgKYqb_JQjQdw",
+      "MODULE@markup://lightning:f6Controller": "5PtsAUCMnPdpZDcNTHXtbg",
+      "COMPONENT@markup://instrumentation:o11ySecondaryLoader": "1JitVv-ZC5qlK6HkuofJqQ"
+    },
+    "globalValueProviders": [
+      {
+        "type": "$Locale",
+        "values": {}
+      },
+      {
+        "type": "$Browser",
+        "values": {}
+      },
+      {
+        "type": "$Global",
+        "values": {
+          "eswConfigDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "isVoiceOver": {
+            "writable": true,
+            "defaultValue": false
+          },
+          "setupAppContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "density": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "srcdoc": {
+            "writable": false,
+            "defaultValue": false
+          },
+          "appContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "dynamicTypeSize": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "appContextDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          }
+        }
+      }
+    ],
+    "enableAccessChecks": true,
+    "apce": 1,
+    "dns": "c",
+    "rns": [
+      "vlocity_cmt"
+    ],
+    "ls": 1,
+    "lairn": [],
+    "laerc": [],
+    "lav": "61",
+    "ln": 1,
+    "lgef": [
+      "com.salesforce.locker.temporaryGate"
+    ],
+    "mna": {
+      "lightning": "interop"
+    },
+    "arse": 1,
+    "acaf": 1,
+    "services": [
+      "markup://lightning:configProvider",
+      "markup://force:salesforceScopedModuleResolver",
+      "markup://force:ldsEngineCreator",
+      "markup://instrumentation:locatorService"
+    ]
+  },
+  "perfSummary": {
+    "version": "core",
+    "request": 281,
+    "actions": {
+      "533;a": {
+        "total": 33,
+        "db": 0
+      }
+    },
+    "actionsTotal": 33,
+    "overhead": 0
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "actions": [
+    {
+      "id": "531;a",
+      "state": "SUCCESS",
+      "returnValue": [
+        {
+          "article": {
+            "id": "ka08M000000AQ1TQAW",
+            "title": "How can I monitor my bill during the month?",
+            "urlName": "How-can-I-monitor-my-bill-during-the-month",
+            "lastPublishedDate": "2024-06-17T14:01:01.000Z",
+            "knowledgeArticleId": "kA08M0000009ToOSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How can I monitor my bill during the month? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-can-I-monitor-my-bill-during-the-month?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 5,
+          "articleType": "Knowledge",
+          "rank": 1
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ1EQAW",
+            "title": "How can I see bill inserts if I receive paperless bills?",
+            "urlName": "How-can-I-see-bill-inserts-if-I-receive-paperless-bills",
+            "lastPublishedDate": "2024-06-17T14:01:01.000Z",
+            "knowledgeArticleId": "kA08M0000009TsiSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about How can I see bill inserts if I receive paperless bills? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/How-can-I-see-bill-inserts-if-I-receive-paperless-bills?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 4,
+          "articleType": "Knowledge",
+          "rank": 2
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ8aQAG",
+            "title": "Do I still get my discounts when my bills are estimated?",
+            "urlName": "Do-I-still-get-my-discounts-when-my-bills-are-estimated",
+            "lastPublishedDate": "2024-06-17T14:00:13.000Z",
+            "knowledgeArticleId": "kA08M0000009Tr8SAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Do I still get my discounts when my bills are estimated? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Do-I-still-get-my-discounts-when-my-bills-are-estimated?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 6,
+          "articleType": "Knowledge",
+          "rank": 3
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ8VQAW",
+            "title": "Do I need to pay my bill if it is estimated?",
+            "urlName": "Do-I-need-to-pay-my-bill-if-it-is-estimated",
+            "lastPublishedDate": "2024-06-17T14:00:13.000Z",
+            "knowledgeArticleId": "kA08M0000009TrVSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Do I need to pay my bill if it is estimated? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Do-I-need-to-pay-my-bill-if-it-is-estimated?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 2,
+          "articleType": "Knowledge",
+          "rank": 4
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ7bQAG",
+            "title": "Can I submit a claim for the Dixie Fire impacts to my property?",
+            "urlName": "Can-I-submit-a-claim-for-the-Dixie-Fire-impacts-to-my-property",
+            "lastPublishedDate": "2024-06-17T14:00:13.000Z",
+            "knowledgeArticleId": "kA08M0000009TqbSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Can I submit a claim for the Dixie Fire impacts to my property? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Can-I-submit-a-claim-for-the-Dixie-Fire-impacts-to-my-property?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 3,
+          "articleType": "Knowledge",
+          "rank": 5
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ75QAG",
+            "title": "Am I paying more if my bill is estimated?",
+            "urlName": "Am-I-paying-more-if-my-bill-is-estimated",
+            "lastPublishedDate": "2024-06-17T14:00:13.000Z",
+            "knowledgeArticleId": "kA08M0000009TrBSAU",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Am I paying more if my bill is estimated? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Am-I-paying-more-if-my-bill-is-estimated?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 7,
+          "articleType": "Knowledge",
+          "rank": 6
+        },
+        {
+          "article": {
+            "id": "ka08M000000AQ5dQAG",
+            "title": "Can I cancel by service with a CTA?",
+            "urlName": "Can-I-cancel-by-service-with-a-CTA",
+            "lastPublishedDate": "2024-06-17T14:00:13.000Z",
+            "knowledgeArticleId": "kA08M0000009TqwSAE",
+            "articleType": "Knowledge__kav",
+            "summary": "To find more about Can I cancel by service with a CTA? click <a target=\"_blank\" href=\"https://help.pge.com/s/article/Can-I-cancel-by-service-with-a-CTA?language=en_US\"> here <\/a>",
+            "totalViewCount": 0
+          },
+          "viewCount": 6,
+          "articleType": "Knowledge",
+          "rank": 7
+        }
+      ],
+      "error": [],
+      "storable": true
+    }
+  ],
+  "context": {
+    "mode": "PROD",
+    "app": "siteforce:communityApp",
+    "contextPath": "/s/sfsites",
+    "pathPrefix": "",
+    "fwuid": "eGx3MHlRT1lEMUpQaWVxbGRUM1h0Z2hZX25NdHFVdGpDN3BnWlROY1ZGT3cyNTAuOC4zLTYuNC41",
+    "mlr": 1,
+    "coos": 1,
+    "loaded": {
+      "APPLICATION@markup://siteforce:communityApp": "vgD8vvaBHzgKYqb_JQjQdw",
+      "MODULE@markup://lightning:f6Controller": "5PtsAUCMnPdpZDcNTHXtbg",
+      "COMPONENT@markup://instrumentation:o11ySecondaryLoader": "1JitVv-ZC5qlK6HkuofJqQ"
+    },
+    "globalValueProviders": [
+      {
+        "type": "$Locale",
+        "values": {}
+      },
+      {
+        "type": "$Browser",
+        "values": {}
+      },
+      {
+        "type": "$Global",
+        "values": {
+          "eswConfigDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "isVoiceOver": {
+            "writable": true,
+            "defaultValue": false
+          },
+          "setupAppContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "density": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "srcdoc": {
+            "writable": false,
+            "defaultValue": false
+          },
+          "appContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "dynamicTypeSize": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "appContextDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          }
+        }
+      }
+    ],
+    "enableAccessChecks": true,
+    "apce": 1,
+    "dns": "c",
+    "rns": [
+      "vlocity_cmt"
+    ],
+    "ls": 1,
+    "lairn": [],
+    "laerc": [],
+    "lav": "61",
+    "ln": 1,
+    "lgef": [
+      "com.salesforce.locker.temporaryGate"
+    ],
+    "mna": {
+      "lightning": "interop"
+    },
+    "arse": 1,
+    "acaf": 1,
+    "services": [
+      "markup://lightning:configProvider",
+      "markup://force:salesforceScopedModuleResolver",
+      "markup://force:ldsEngineCreator",
+      "markup://instrumentation:locatorService"
+    ]
+  },
+  "perfSummary": {
+    "version": "core",
+    "request": 259,
+    "actions": {
+      "531;a": {
+        "total": 17,
+        "db": 0
+      }
+    },
+    "actionsTotal": 17,
+    "overhead": 0
+  }
+}
