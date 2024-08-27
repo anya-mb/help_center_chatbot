@@ -27,6 +27,10 @@ The chatbot’s performance is evaluated using several metrics:
 ### Irrelevant questions
 <img width="803" alt="non-relevant_question" src="https://github.com/user-attachments/assets/87224796-7be1-4f4c-970e-48554afffdde">
 
+### Video demo
+
+https://youtu.be/e8xNKpBgsY0
+
 
 ## Setup
 
@@ -74,13 +78,16 @@ python help_center_chatbot.py --question "Why is my gas bill so high?"
 ```
 
 ## Key Directories and Files:
-`data/`: Contains all the data used by the chatbot, including the FAQs, parsed documents and the vector database.
-
-`notebooks/`: Jupyter notebooks for experimenting with RAG, NEMO Guardrails and evaluating different RAG versions.
 
 `src/`: Source code for the chatbot, including configuration files, scripts for parsing data, building RAG and the main chatbot logic.
 
-`venv/`: Python virtual environment for dependency management.
+`data/chroma_db`: Contains Chroma RAG vector store.
+
+`data/Bill_FAQs`: Contains the FAQs, parsed documents.
+
+`data/RAG_evaluation_data`: Contains all the data used to evaluate RAG (test datasets of queries and answers).
+
+`notebooks/`: Jupyter notebooks for experimenting with RAG, NEMO Guardrails and evaluating different RAG versions.
 
 `logs/`: Stores log files for tracking the chatbot's operation.
 
