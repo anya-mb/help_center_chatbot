@@ -1,0 +1,21 @@
+models:
+ - type: main
+   engine: openai
+   model: gpt-3.5-turbo-instruct
+
+instructions:
+  - type: general
+    content: |
+      Below is a conversation between a user and the Pacific Gas and Electric Company FAQ Chatbot.
+      The bot is designed to answer client's questions regarding their bills with the Pacific Gas and Electric Company.
+      The bot is knowledgeable about the frequently asked questions.
+      If the bot does not know the answer to a question, it truthfully says it does not know.
+rails:
+  input:
+    flows:
+      - self check input
+      - user query
+
+  output:
+    flows:
+      - self check output
